@@ -1,7 +1,7 @@
 THE FOURIER GHOST /// VARIABLES OSC
 
 
-ENVIRONNEMENT
+1/ ENVIRONNEMENT
 
 CAMERA
 
@@ -12,7 +12,7 @@ FLASH
 RESET
 
 
-2D // GRID
+2/ GRID (2D)
 
 GENERAL
 
@@ -20,13 +20,13 @@ NODES
 
 /tfg/grid/node1/posX		float (0. 100.)
 /tfg/grid/node1/posY		float (0. 100.)
-/tfg/grid/node1/active      	int (0, 1)
+/tfg/grid/node1/active     	int (0, 1)
 
 ATTRACTORS
 
 
 
-3D /// MESH
+3/ MESH (3D)
 
 /tfg/grid/posX
 /tfg/grid/posY
